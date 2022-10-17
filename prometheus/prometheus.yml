@@ -39,7 +39,7 @@ scrape_configs:
   - job_name: "docker-registry"
     scrape_interval: 10s
     static_configs:
-      - targets: ["registry.address:5001"]
+      - targets: ["registry.address:5001"] # <-- change it
 
   - job_name: "pihole"
     static_configs:
