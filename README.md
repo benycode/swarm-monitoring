@@ -10,7 +10,7 @@ Monitoring service for Docker Swarm using: Prometheus / Grafana / cAdvisor / Nod
 
 ## Before install
 
-- You need Traefik to access services. First install the Traefik.
+- You need the Traefik to access services. First install the Traefik.
 
 ## Install
 
