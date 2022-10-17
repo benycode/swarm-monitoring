@@ -26,5 +26,5 @@ Set your options :
 docker stack deploy -c docker-stack.yml monitoring
 ```
 
-Access Grafana : http(s)://grafana.*.*
-Access Prometheus : http(s)://prometheus.*.*
+- Access Grafana: http(s)://grafana.*.*
+- Access Prometheus: http(s)://prometheus.*.*
